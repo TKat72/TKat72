@@ -13,6 +13,6 @@ Here are some ideas to get you started: -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TKat72" alt="TKat72" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TKat72&show_icons=true" alt="TKat72" /></p>
+<p>&nbsp;<img align="center" background-color="black"  src="https://github-readme-stats.vercel.app/api?username=TKat72&show_icons=true" alt="TKat72"  /></p>
 
 
