@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my capstone project artStagram
+- 🔭 I’m currently working on project fot wildlife center 
 - 🌱 I’m currently learning python
 - 💬 Ask me about whatever you want 
 - 📫 How to reach me: tsymbal.katena@gmail.com
